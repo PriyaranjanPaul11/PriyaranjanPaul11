@@ -47,6 +47,6 @@ Passionate about leveraging machine learning to drive business value and improve
 
 ## 🌟Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,bootstrap,python,cpp,c,react,express,streamlit,rust,solidity,fastapi,django,mysql,postgresql,mongodb,docker,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,bootstrap,python,cpp,c,react,express,rust,solidity,fastapi,django,mysql,postgresql,mongodb,docker,git,github,)](https://skillicons.dev)
 
 
