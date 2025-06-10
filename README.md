@@ -31,10 +31,7 @@ Passionate about leveraging machine learning to drive business value and improve
 - 🌱 I'm currently learning: **📚 Generative AI , Blockchain Development**
 - 💬 Ask me about: **💡 C++, Python, Machine learning , AI , NLP , Web3**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="32" alt="PyTorch" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px"></div>
+- 
 
  **<h3 align="left">🔥GitHub Stats</h3>**
 
@@ -43,4 +40,13 @@ Passionate about leveraging machine learning to drive business value and improve
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KAMAL-02&cache_seconds=1800&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=KAMAL-02&cache_seconds=1800&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAMAL-02&cache_seconds=1800&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068?"></a>
+
+  <p align="left">
+  <a href="https://github.com/KAMAL-02?tab=repositories&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+## 🌟Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,bootstrap,python,cpp,c,react,express,langchain,FastAPI,Django,machinelearning,mysql,postgresql,mongodb,docker,git,github,)](https://skillicons.dev)
+
 
