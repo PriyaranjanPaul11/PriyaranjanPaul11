@@ -4,15 +4,22 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hey 👋, I am **Priyaranjan**, a developer.✨
+        Hey 👋, I am Priyaranjan, a developer.✨
       </h1>
     </summary>
   </ul>
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/priyaranjan-paul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="priyoranjanpaul050@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
-  <a href="https://twitter.com/xdRonnie_paul" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/xdRonnie_paul"><img width="32px" alt="Twitter/X" title="Twitter/X" src="https://i.pinimg.com/564x/a3/92/59/a3925952fa117602db14aadf218594ac.jpg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/bruce.2169"><img width="32px" alt="Discord" title="Discord" src="https://i.pinimg.com/736x/ee/f4/c8/eef4c8ffb90b74df817b058b2c1e7749.jpg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.linkedin.com/in/priyaranjan-paul/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.pinimg.com/564x/2c/5c/51/2c5c51d0291b22c10650a5f200d2cfb3.jpg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
  **<h3 align="left">🚀 Highly motivated Developer with expertise in developing and deploying AI solutions. Proficient in Python, TensorFlow, and PyTorch, with experience in natural language processing, computer vision , Blockchain and predictive modeling.
 Passionate about leveraging machine learning to drive business value and improve real-world outcomes. Dedicated to staying updated with industry trends and advancements.
@@ -21,8 +28,8 @@ Passionate about leveraging machine learning to drive business value and improve
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a model for movie recommendation system**
-- 🌱 I'm currently learning: **📚 Generative AI **
-- 💬 Ask me about: **💡 C++, Python, Machine learning , AI , NLP**
+- 🌱 I'm currently learning: **📚 Generative AI , Blockchain Development**
+- 💬 Ask me about: **💡 C++, Python, Machine learning , AI , NLP , Web3**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
