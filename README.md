@@ -35,7 +35,8 @@ Passionate about leveraging machine learning to drive business value and improve
 
  **<h3 align="left">🔥GitHub Stats</h3>**
 
-<img align="right" width="38%" src="https://assets.pinterest.com/ext/embed.html?id=867435578269160948"/>
+<img align="right" width="38%" src="![a2708546-25b7-4cab-9ab8-0045b89ce6a4](https://github.com/user-attachments/assets/1652babf-98d6-40d1-ba71-7060fb341dbf)
+"/>
 
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=PriyaranjanPaul11&cache_seconds=1800&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=PriyaranjanPaul11&cache_seconds=1800&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
