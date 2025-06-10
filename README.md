@@ -42,7 +42,7 @@ Passionate about leveraging machine learning to drive business value and improve
   <a href="https://github.com/PriyaranjanPaul11"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAMAL-02&cache_seconds=1800&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068?"></a>
 
   <p align="left">
-  <a href="https://github.com/KAMAL-02?tab=repositories&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/PriyaranjanPaul11?tab=repositories&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 ## 🌟Skills
